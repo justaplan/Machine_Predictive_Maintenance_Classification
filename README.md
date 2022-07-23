@@ -1,0 +1,2 @@
+# Machine_Predictive_Maintenance_Classification
+Capstone project for Elite Data Science Certification
